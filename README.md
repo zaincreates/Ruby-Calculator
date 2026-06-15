@@ -7,4 +7,4 @@ This is a simple CLI-based calculator built using Ruby.
 - User input handling
 
 ## How to run
-ruby calculator.rb 
+calculator.rb 
